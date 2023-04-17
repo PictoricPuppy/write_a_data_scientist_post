@@ -23,9 +23,11 @@ Udacity data scientist course first project - write a data scientist post
 
   Readme - Project description
 
-  Jupyter notebook - Code used for the analysis.
+  ESantamaria_blogpost.ipynb - Jupyter notebook with the code used for the analysis.
 
-  csv files collection - Data used for the analysis. Extracted from the Stackoverflow survey years 2019, 2020, 2021 and 2022.
+  stack-overflow-developer-survey-19-20-21-22 - Data used for the analysis. Extracted from the Stackoverflow survey years 2019, 2020, 2021 and 2022.
+  
+  Developers_and_Screwdrivers.me - Final blog 
 
 4. How to Interact with your project
 
@@ -68,9 +70,13 @@ Bibliotecas:
 3. Descripciones de archivos
 
   Readme - Descripción del proyecto
-  Jupyter notebook - Código utilizado para el análisis.
-  Archivos csv - Datos utilizados para el análisis. Extraídos de la encuesta de Stackoverflow años 2019, 2020, 2021 y 2022.
 
+  ESantamaria_blogpost.ipynb - Jupyter notebook con el código utilizado para el análisis.
+
+  stack-overflow-developer-survey-19-20-21-22 - Datos utilizados para el análisis. Extraídos de la encuesta de Stackoverflow años 2019, 2020, 2021 y 2022.
+  
+  Developers_and_Screwdrivers.me - Blog final.
+ 
 4. Cómo interactuar con tu proyecto
 
   Sube todos los archivos y ejecútalo en una consola de jupyter notebook.

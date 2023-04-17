@@ -1,7 +1,8 @@
 # write_a_data_scientist_post
 Udacity data scientist course first project - write a data scientist post
 
-****************************************************************ENGLISH************************************************************************************************
+*ENGLISH*
+
 1. Installations
 Jupyter notebook
 Libraries:
@@ -26,9 +27,11 @@ This project performs basic operations and transformations with dataframes and n
 
 5. Licensing, Authors, Acknowledgements, etc.
 Datasets from:
+
 https://survey.stackoverflow.co/
 
 Bibliography:
+
 https://stackoverflow.com/questions/27975069/how-to-filter-rows-containing-a-string-pattern-from-a-pandas-dataframe
 https://seaborn.pydata.org/generated/seaborn.barplot.html
 https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.legend.html
@@ -37,7 +40,7 @@ https://stackoverflow.com/questions/28931224/how-to-add-value-labels-on-a-bar-ch
 https://seaborn.pydata.org/tutorial/color_palettes.html
 https://stackoverflow.com/questions/58141058/how-to-plot-a-grouped-bar-plot-from-two-or-more-dataframes
 
-*******************************************************************CASTELLANO*****************************************************************************************
+*CASTELLANO*
 1. Instalaciones
 Cuaderno Jupyter
 Bibliotecas:
@@ -62,9 +65,11 @@ Este proyecto realiza operaciones y transformaciones básicas con dataframes y n
 
 5. Licencias, autores, agradecimientos, etc.
 Datos:
+
 https://survey.stackoverflow.co/
 
 Bibliografía:
+
 https://stackoverflow.com/questions/27975069/how-to-filter-rows-containing-a-string-pattern-from-a-pandas-dataframe
 https://seaborn.pydata.org/generated/seaborn.barplot.html
 https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.legend.html

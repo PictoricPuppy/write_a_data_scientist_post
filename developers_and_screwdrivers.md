@@ -38,6 +38,7 @@ compared to previous years.
 </div>
 
 **So, what is going on, is still the IT development world popular?**
+ 
 In order to analyze this assumption, I decided to investigate the number of individuals who are new programming enthusiasts.
 After gathering and filtering the data regarding new programmers by hobby or due to learning issues, we could see the following pattern.
  
@@ -92,4 +93,5 @@ What do you think, <font color="purple">**should I put down the screwdriver and 
  <img src="keyboard_smiley.jpg" 
       alt="keyboard with a smiley emoji"
       caption = "source google images"
+      width="100" height="100" 
 </div>

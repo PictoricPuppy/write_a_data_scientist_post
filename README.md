@@ -54,11 +54,12 @@ Udacity data scientist course first project - write a data scientist post
   https://stackoverflow.com/questions/58141058/how-to-plot-a-grouped-bar-plot-from-two-or-more-dataframes
 
 **CASTELLANO**
+
 **1. Instalaciones**
 
-Jupyter Notebook
-
-Bibliotecas:
+    Jupyter notebook
+    
+    Librerias:
       Pandas
       Numpy
       Matplotlib

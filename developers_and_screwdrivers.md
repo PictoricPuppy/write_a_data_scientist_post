@@ -35,7 +35,7 @@ compared to previous years.
 <div style="text-align:center;">
  <img src="chart1.jpg" 
       alt="new developers during 2019 to 2022 grouped by gender" 
-       width="600" height="400"
+       width="300" height="200"
 </div>
 
 **So, what is going on, is still the IT development world popular?**
@@ -46,7 +46,7 @@ After gathering and filtering the data regarding new programmers by hobby or due
 <div style="text-align:center;">
  <img src="chart2.jpg" 
       alt="new code enthusiasts 2019 to 2022" 
-       width="600" height="400"
+       width="300" height="200"
 </div>
  
 In this case, there is an increase in the number of individuals who started programming after the pandemic, either as a hobby or because 
@@ -61,7 +61,7 @@ For answering this question, I calculated the average age in professional and am
 <div style="text-align:center;">
  <img src="chart3.jpg" 
       alt="new developer's and coder's age" 
-       width="600" height="400"
+       width="300" height="200"
 </div>
  
 After analyzing the average ages, we observe that both the professional and amateur branches follow the same pattern. During 2019 and 2020,
@@ -79,7 +79,7 @@ relationship turned into a weak one, with a R-squared of 0,013 in 2022.
  <img src="enredadera.jpg" 
       alt="Ivy plant"
       caption = "source google images"
-       width="600" height="400"
+       width="300" height="200"
 </div>
 
 **Conclusions**
@@ -91,11 +91,11 @@ to change careers.
 The results of our linear regressions, however, show that after the pandemic there is no strong correlation between age and type of employment, 
 so this could mean that the selection criteria have broadened after the pandemic. Thus, allowing for more diversity in the software developer workforce.
 
-What do you think, <FONT COLOR="#80080">**should I put down the screwdriver and pick up the keyboard?**</FONT>
+What do you think, **should I put down the screwdriver and pick up the keyboard?**
 
 <div style="text-align:center;">
  <img src="keyboard_smiley.jpg" 
       alt="keyboard with a smiley emoji"
       caption = "source google images"
-      width="600" height="400" 
+      width="300" height="200" 
 </div>

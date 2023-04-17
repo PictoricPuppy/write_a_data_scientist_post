@@ -8,11 +8,11 @@ Udacity data scientist course first project - write a data scientist post
     Jupyter notebook
     
     Libraries:
-      Pandas
-      Numpy
-      Matplotlib
-      Seaborn
-      Statsmodels
+      *Pandas
+      *Numpy
+      *Matplotlib
+      *Seaborn
+      *Statsmodels
 
 2. Project Motivation
   
@@ -59,11 +59,11 @@ Udacity data scientist course first project - write a data scientist post
 Jupyter Notebook
 
 Bibliotecas:
-  Pandas
-  Numpy
-  Matplotlib
-  Seaborn
-  Statsmodels
+      *Pandas
+      *Numpy
+      *Matplotlib
+      *Seaborn
+      *Statsmodels
 
 2. Motivación del proyecto
 

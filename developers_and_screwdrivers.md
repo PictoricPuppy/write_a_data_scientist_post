@@ -1,4 +1,4 @@
-#**Covid-19, developers and screwdrivers**
+<h1>**Covid-19, developers and screwdrivers**</h1>
 
 ¿What were you doing when Covid-19 spread? ¿Did the pandemic affected your professional life?
 
@@ -35,6 +35,7 @@ compared to previous years.
 <div style="text-align:center;">
  <img src="chart1.jpg" 
       alt="new developers during 2019 to 2022 grouped by gender" 
+       width="400" height="400"
 </div>
 
 **So, what is going on, is still the IT development world popular?**
@@ -45,6 +46,7 @@ After gathering and filtering the data regarding new programmers by hobby or due
 <div style="text-align:center;">
  <img src="chart2.jpg" 
       alt="new code enthusiasts 2019 to 2022" 
+       width="400" height="400"
 </div>
  
 In this case, there is an increase in the number of individuals who started programming after the pandemic, either as a hobby or because 
@@ -59,6 +61,7 @@ For answering this question, I calculated the average age in professional and am
 <div style="text-align:center;">
  <img src="chart3.jpg" 
       alt="new developer's and coder's age" 
+       width="400" height="400"
 </div>
  
 After analyzing the average ages, we observe that both the professional and amateur branches follow the same pattern. During 2019 and 2020,
@@ -76,6 +79,7 @@ relationship turned into a weak one, with a R-squared of 0,013 in 2022.
  <img src="enredadera.jpg" 
       alt="Ivy plant"
       caption = "source google images"
+       width="400" height="400"
 </div>
 
 **Conclusions**
@@ -93,5 +97,5 @@ What do you think, <font color="purple">**should I put down the screwdriver and 
  <img src="keyboard_smiley.jpg" 
       alt="keyboard with a smiley emoji"
       caption = "source google images"
-      width="100" height="100" 
+      width="400" height="400" 
 </div>

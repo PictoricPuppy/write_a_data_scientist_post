@@ -91,11 +91,11 @@ to change careers.
 The results of our linear regressions, however, show that after the pandemic there is no strong correlation between age and type of employment, 
 so this could mean that the selection criteria have broadened after the pandemic. Thus, allowing for more diversity in the software developer workforce.
 
-What do you think, <font color="purple">**should I put down the screwdriver and pick up the keyboard?**</font>
+What do you think, <p style="color:#800080">**should I put down the screwdriver and pick up the keyboard?**</p>
 
 <div style="text-align:center;">
  <img src="keyboard_smiley.jpg" 
       alt="keyboard with a smiley emoji"
       caption = "source google images"
-      width="400" height="400" 
+      width="600" height="400" 
 </div>

@@ -1,4 +1,4 @@
-<h1>**Covid-19, developers and screwdrivers**</h1>
+<h1>Covid-19, developers and screwdrivers</h1>
 
 ¿What were you doing when Covid-19 spread? ¿Did the pandemic affected your professional life?
 
@@ -35,7 +35,7 @@ compared to previous years.
 <div style="text-align:center;">
  <img src="chart1.jpg" 
       alt="new developers during 2019 to 2022 grouped by gender" 
-       width="300" height="200"
+       width="400" height="300"
 </div>
 
 **So, what is going on, is still the IT development world popular?**

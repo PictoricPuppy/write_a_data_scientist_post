@@ -2,7 +2,9 @@
 
 ¿What were you doing when Covid-19 spread? ¿Did the pandemic affected your professional life?
 
+<div style="text-align:center;">
  <img src="screwdrivers.jpg" alt="Screwdrivers hanging from the wall - picture from google images">
+</div>
 
 As an electronic engineer related to the automation industry, the pandemic did not really affect my professional life and gave me things 
 I could never have wished for, such as a hybrid job mode. But for some of my friends, it was a different story. The cooks had to learn 
